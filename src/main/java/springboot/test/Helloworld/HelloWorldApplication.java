@@ -1,12 +1,12 @@
-package http.localhost0.SpringHelloWorld;
+package springboot.test.Helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringHelloWorldApplication {
+public class HelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringHelloWorldApplication.class, args);
+		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 }

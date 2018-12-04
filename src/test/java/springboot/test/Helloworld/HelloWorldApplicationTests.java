@@ -1,4 +1,4 @@
-package http.localhost0.SpringHelloWorld;
+package springboot.test.Helloworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringHelloWorldApplicationTests {
+public class HelloWorldApplicationTests {
 
 	@Test
 	public void contextLoads() {
